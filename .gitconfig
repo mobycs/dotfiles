@@ -7,3 +7,5 @@
 [user]
 	email = mobybusinesscontact@gmail.com
 	name = kieran
+[init]
+	defaultBranch = main
